@@ -5,8 +5,8 @@ Konteks & Keputusan Arsitektur (Pertemuan 5) serta Karakteristik Arsitektur & At
 | Keterangan | Isi |
 |---|---|
 | Kelompok | Bagian [ II ] – Kelompok [03] |
-| Subsistem | [salin dari tabel 2.2 pada dokumen tugas] |
-| Layanan inti | [salin dari tabel 2.2 pada dokumen tugas] |
+| Subsistem | [Academic Management] |
+| Layanan inti | [Layanan nilai di SIAKAD: input nilai oleh dosen, pengesahan, KHS, transkrip, dan sanggahan nilai] |
 | Perwakilan kelompok | [Muhammad Ardiansyah Ihsan, 13020240015] |
 
 ## Anggota
