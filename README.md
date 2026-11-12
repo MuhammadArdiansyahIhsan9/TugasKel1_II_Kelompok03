@@ -32,7 +32,7 @@ Status: Belum / Draf / Selesai. Perbarui tabel ini setiap ada perubahan.
 | A5 | laporan/A5-keputusan-arsitektur.md dan adr |Muh. Bintang Yudha Pratama Dagga |  Sudah |
 | B1 | laporan/B1-karakteristik.md |Muh. Bintang Yudha Pratama Dagga |  Sudah |
 | B2 | laporan/B2-atribut-terukur.md |Muh. Bintang Yudha Pratama Dagga |  Sudah |
-| B3 | laporan/B3-tiga-struktur.md dan diagram/ |  | Belum |
+| B3 | laporan/B3-tiga-struktur.md dan diagram/ | Muhammad Ardiansyah Ihsan | Sudah|
 | B4 | laporan/B4-iso-25010.md | Muhammad Ardiansyah Ihsan | Sudah |
 | B5 | laporan/B5-trade-off.md | Muhammad Ardiansyah Ihsan | Sudah |
 | BAB IV | laporan/BAB4-penutup.md |Muhammad Ardiansyah Ihsan | Sudah |
